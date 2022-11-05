@@ -1,0 +1,8 @@
+body {
+ /* makes font sans-serif*/
+    font-family: sans-serif;
+    stroke: white;
+    /*makes colors*/
+    background-color: #1c1c1b;
+    -webkit-text-stroke-color: white;
+}
